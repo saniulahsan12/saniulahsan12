@@ -55,7 +55,6 @@ I'm a **Lead Software Engineer** with a passion for designing systems that don't
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 #### Backend & Frameworks
@@ -70,10 +69,8 @@ I'm a **Lead Software Engineer** with a passion for designing systems that don't
 
 #### Frontend & Mobile
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-61DAFB?style=for-the-badge&logo=angular&logoColor=black" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 #### Data & Messaging
@@ -127,10 +124,10 @@ const saniul = {
 
 <p align="center">
   <a href="https://github.com/saniulahsan12">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=saniulahsan12&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&icon_color=8B5CF6&title_color=8B5CF6" />
+    <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=saniulahsan12&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight&icon_color=8B5CF6&title_color=8B5CF6" />
   </a>
   <a href="https://github.com/saniulahsan12">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniulahsan12&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=8B5CF6" />
+    <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=saniulahsan12&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=8B5CF6" />
   </a>
 </p>
 
@@ -139,7 +136,7 @@ const saniul = {
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saniulahsan12&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.zeabur.app/?username=saniulahsan12&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
 </p>
 
 ---

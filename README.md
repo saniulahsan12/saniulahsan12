@@ -6,8 +6,8 @@
 </h1>
 
 <p align="center">
-  <a href="https://saniul.me/">
-    <img src="https://img.shields.io/badge/Portfolio-saniul.me-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  <a href="https://saniul-info.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-saniul-info-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/syed-saniul-ahsan-838060102/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />

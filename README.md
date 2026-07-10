@@ -149,7 +149,7 @@ const saniul = {
 </p>
 
 <p align="center">
-  <a href="https://saniul.me/">🌐 saniul.me</a> &nbsp;•&nbsp;
+  <a href="https://saniul-info.vercel.app/">🌐 saniul.me</a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/syed-saniul-ahsan-838060102/">💼 LinkedIn</a> &nbsp;•&nbsp;
   <a href="https://stackoverflow.com/users/7082057/saniul-ahsan">📚 Stack Overflow</a> &nbsp;•&nbsp;
   <a href="https://leetcode.com/u/saniul-ahsan/">🧩 LeetCode</a> &nbsp;•&nbsp;

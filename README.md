@@ -6,10 +6,10 @@
 </h1>
 
 <p align="center">
-  <a href="https://saniul-info.vercel.app">
+  <a href="https://saniul.web.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-4CC38A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://saniul-info.vercel.app/resume">
+  <a href="https://saniul.web.app/resume">
     <img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-Read-59C2D6?style=for-the-badge&logo=readme&logoColor=white" alt="Résumé" />
   </a>
   <a href="https://www.linkedin.com/in/syed-saniul-ahsan-838060102/">
@@ -162,7 +162,7 @@ const saniul = {
 | 09 | Data Pipelines & Visualization | 19 | Hardware Monitoring & Server Tools |
 | 10 | Computer Vision — Face & Plate | 20 | File & Asset Management with Sync |
 
-**→ Full deep-dives, architecture diagrams & tech per domain live on the [portfolio](https://saniul-info.vercel.app/#domains).**
+**→ Full deep-dives, architecture diagrams & tech per domain live on the [portfolio](https://saniul.web.app/#domains).**
 
 </details>
 
@@ -213,8 +213,8 @@ const saniul = {
 </p>
 
 <p align="center">
-  <a href="https://saniul-info.vercel.app/">🌐 Portfolio</a> &nbsp;•&nbsp;
-  <a href="https://saniul-info.vercel.app/resume">📄 Résumé</a> &nbsp;•&nbsp;
+  <a href="https://saniul.web.app/">🌐 Portfolio</a> &nbsp;•&nbsp;
+  <a href="https://saniul.web.app/resume">📄 Résumé</a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/syed-saniul-ahsan-838060102/">💼 LinkedIn</a> &nbsp;•&nbsp;
   <a href="https://stackoverflow.com/users/7082057/saniul-ahsan">📚 Stack Overflow</a> &nbsp;•&nbsp;
   <a href="https://leetcode.com/u/saniul-ahsan/">🧩 LeetCode</a> &nbsp;•&nbsp;

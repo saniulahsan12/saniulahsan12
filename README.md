@@ -37,7 +37,7 @@
 
 ## `~/whoami`
 
-I'm a **Lead Software Engineer** with **10+ years** designing, building, and scaling systems that carry real business weight — high-traffic booking & payment engines, multi-tenant point-of-sale platforms, healthcare systems under strict HIPAA compliance, and the cloud infrastructure that keeps them alive.
+I'm a **Lead Software Engineer** with **12+ years** designing, building, and scaling systems that carry real business weight — high-traffic booking & payment engines, multi-tenant point-of-sale platforms, healthcare systems under strict HIPAA compliance, and the cloud infrastructure that keeps them alive.
 
 - 🏗️ **Full-stack ownership** — idea → architecture → deployment → operations
 - ☁️ **Production-grade infra** — Kubernetes, IaC, CI/CD and observability as defaults, not buzzwords

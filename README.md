@@ -49,7 +49,7 @@ I'm a **Lead Software Engineer** with **12+ years** designing, building, and sca
 
 <div align="center">
 
-**`10+` years** &nbsp;·&nbsp; **`20` solution domains** &nbsp;·&nbsp; **`46` named projects** &nbsp;·&nbsp; **`15+` engineers led**
+**`12+` years** &nbsp;·&nbsp; **`20` solution domains** &nbsp;·&nbsp; **`46` named projects** &nbsp;·&nbsp; **`15+` engineers led**
 
 </div>
 
